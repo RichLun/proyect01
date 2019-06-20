@@ -1,4 +1,4 @@
-/* Programa para elegir de forma al delegado de codenotch */
+/* Programa para elegir de forma aleatorio delegado de codenotch */
 var candidates = [ //objeto json dentro de un array
     {
         name : 'Europa',
